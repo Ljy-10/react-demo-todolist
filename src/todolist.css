@@ -1,0 +1,13 @@
+.todolist {
+    padding: 40px;
+}
+button {
+    margin-left: 20px;
+}
+li {
+    margin-top: 10px;
+    list-style-type:none;
+}
+.through{
+    text-decoration: line-through;
+  }
